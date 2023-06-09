@@ -1,0 +1,15 @@
+C:\Users\Iniya Vishal\source\repos\bal\bin\Debug\bal.exe.config
+C:\Users\Iniya Vishal\source\repos\bal\bin\Debug\bal.exe
+C:\Users\Iniya Vishal\source\repos\bal\bin\Debug\bal.pdb
+C:\Users\Iniya Vishal\source\repos\bal\bin\Debug\Guna.UI2.dll
+C:\Users\Iniya Vishal\source\repos\bal\obj\Debug\MobileRepair.csproj.AssemblyReference.cache
+C:\Users\Iniya Vishal\source\repos\bal\obj\Debug\MobileRepair.csproj.SuggestedBindingRedirects.cache
+C:\Users\Iniya Vishal\source\repos\bal\obj\Debug\bal.Customers.resources
+C:\Users\Iniya Vishal\source\repos\bal\obj\Debug\bal.Properties.Resources.resources
+C:\Users\Iniya Vishal\source\repos\bal\obj\Debug\bal.Repairs.resources
+C:\Users\Iniya Vishal\source\repos\bal\obj\Debug\bal.spares.resources
+C:\Users\Iniya Vishal\source\repos\bal\obj\Debug\MobileRepair.csproj.GenerateResource.cache
+C:\Users\Iniya Vishal\source\repos\bal\obj\Debug\MobileRepair.csproj.CoreCompileInputs.cache
+C:\Users\Iniya Vishal\source\repos\bal\obj\Debug\MobileRepair.csproj.CopyComplete
+C:\Users\Iniya Vishal\source\repos\bal\obj\Debug\bal.exe
+C:\Users\Iniya Vishal\source\repos\bal\obj\Debug\bal.pdb

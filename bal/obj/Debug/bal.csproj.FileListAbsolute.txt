@@ -1,0 +1,32 @@
+C:\Users\Iniya Vishal\source\repos\bal\bin\Debug\bal.exe.config
+C:\Users\Iniya Vishal\source\repos\bal\bin\Debug\bal.exe
+C:\Users\Iniya Vishal\source\repos\bal\bin\Debug\bal.pdb
+C:\Users\Iniya Vishal\source\repos\bal\obj\Debug\bal.csproj.AssemblyReference.cache
+C:\Users\Iniya Vishal\source\repos\bal\obj\Debug\bal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Iniya Vishal\source\repos\bal\obj\Debug\bal.Properties.Resources.resources
+C:\Users\Iniya Vishal\source\repos\bal\obj\Debug\bal.csproj.GenerateResource.cache
+C:\Users\Iniya Vishal\source\repos\bal\obj\Debug\bal.csproj.CoreCompileInputs.cache
+C:\Users\Iniya Vishal\source\repos\bal\obj\Debug\bal.exe
+C:\Users\Iniya Vishal\source\repos\bal\obj\Debug\bal.pdb
+C:\Users\Iniya Vishal\source\repos\bal\bin\Debug\Guna.UI2.dll
+C:\Users\Iniya Vishal\source\repos\bal\obj\Debug\bal.csproj.CopyComplete
+C:\Users\Iniya Vishal\source\repos\bal\obj\Debug\bal.Customers.resources
+C:\Users\Iniya Vishal\source\repos\bal\obj\Debug\bal.spares.resources
+C:\Users\Iniya Vishal\source\repos\bal\obj\Debug\bal.Repairs.resources
+C:\Users\Iniya Vishal\source\repos\bal\obj\Debug\bal.Login.resources
+C:\Users\gokul\Desktop\bal\bin\Debug\bal.exe.config
+C:\Users\gokul\Desktop\bal\bin\Debug\bal.exe
+C:\Users\gokul\Desktop\bal\bin\Debug\bal.pdb
+C:\Users\gokul\Desktop\bal\bin\Debug\Guna.UI2.dll
+C:\Users\gokul\Desktop\bal\obj\Debug\bal.csproj.AssemblyReference.cache
+C:\Users\gokul\Desktop\bal\obj\Debug\bal.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokul\Desktop\bal\obj\Debug\bal.Customers.resources
+C:\Users\gokul\Desktop\bal\obj\Debug\bal.Login.resources
+C:\Users\gokul\Desktop\bal\obj\Debug\bal.Properties.Resources.resources
+C:\Users\gokul\Desktop\bal\obj\Debug\bal.Repairs.resources
+C:\Users\gokul\Desktop\bal\obj\Debug\bal.spares.resources
+C:\Users\gokul\Desktop\bal\obj\Debug\bal.csproj.GenerateResource.cache
+C:\Users\gokul\Desktop\bal\obj\Debug\bal.csproj.CoreCompileInputs.cache
+C:\Users\gokul\Desktop\bal\obj\Debug\bal.csproj.CopyComplete
+C:\Users\gokul\Desktop\bal\obj\Debug\bal.exe
+C:\Users\gokul\Desktop\bal\obj\Debug\bal.pdb
